@@ -4,12 +4,12 @@
 
 ##block-templates/single.html
 This file serves as the template for displaying individual posts in the FSE environment. I included a translatable string by following WordPress translation best practices:
-#Translation-Ready Content: The text in the <h1> and <p> tags can be easily detected and translated by plugins like WPML and Polylang.
+#Translation-Ready Content: The text in the h1 and p tags can be easily detected and translated by plugins like WPML and Polylang.
 #Dynamic Elements: The template is enhanced with placeholder content and can be customized further.
 
 ##block-template-parts/footer.html
 This file demonstrates how to create a reusable footer template for FSE themes. To meet your request for dynamic functionality without PHP, I used JavaScript to generate the current year dynamically:
-#Dynamic Year: The <script> dynamically displays the current year in the browser.
+#Dynamic Year: The script dynamically displays the current year in the browser.
 #Reusable Template: This block can be included in any template using the wp:template-part block.
 
 ##How Translation Plugins Work with This Code

@@ -1,0 +1,13 @@
+/*
+Theme Name: Test Theme
+Author: Grace Gamble
+Author URI: https://github.com/ghgamble
+Description: A full-site editing theme for WordPress.
+Version: 1.0
+Text Domain: test-theme
+*/
+body {
+    font-family: Arial, sans-serif;
+    color: #333333;
+    background-color: #ffffff;
+}
